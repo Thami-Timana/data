@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Data Science Tool and Ecosystem\n\n \n\nIn this notebook, Data Science Tools and Ecosystem are summarize.\n\n \n\n<details><summary> Some of the popular languages that Data Scientists use are:</summary>\n1.Python 2.Java 3.C++ 4.C",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "<details><summary>Some of the commonly used libraries used by Data Scientists include:</summary>\n1. Pandas \n2. NumPy  \n3. SciPy \n4. Keras  ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "|Data science tools|\n|------------------|\n|Rstudio|\n|Apache Spark|\n|TensorFlow|",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "### Below are a few examples of evaluating arithmetic expressions in Python",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "\n#This is a simple arithmetic expression to mutiply then add integers\n(3*4)+5\n",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "execution_count": 2,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "17"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": "200/60",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "execution_count": 3,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "3.3333333333333335"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "__Objectives__\n- List popular languages for Data Science\n- List popular libraries for Data Science\n- Table of data science tools\n- Arithmetic expression",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Author\nThamsanqa Timana",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
